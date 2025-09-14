@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruv Sharma  
 
-<!--
-**dhruv3607sharma/dhruv3607sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🚀 About Me  
+- 🌱 Currently learning **Python** and exploring **GitHub**  
+- 🐍 Writing small Python projects (calculator, games)  
+- 🎯 Goal: improve my coding skills. 
+- 💡 Always curious to learn something new  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Skills (so far)  
+- Python (basics)  
+- Git & GitHub (beginner)
+
+# 📌 Current Focus  
+- Practicing Python daily  
+- Understanding Git & version control  
+- Building mini projects and sharing them here  
+
+### 📫 Connect with Me  
+- GitHub: [Dhruv3607sharma]
+- Email: dhruv123sharma3452@gmail.com
+ 
